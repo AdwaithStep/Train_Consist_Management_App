@@ -37,7 +37,7 @@ public class UseCase1TrainConsistMgmnt {
         // Display initial bogie count
         System.out.println("Initial Bogie Count: " + trainConsist.size());
 
-        // Print the current state of the train
+        // Print the current state of the train(s)
         System.out.println("Current Consist State: " + trainConsist);
 
         System.out.println("\nApplication is ready for further operations.");
